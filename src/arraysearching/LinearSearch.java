@@ -3,8 +3,12 @@ package arraysearching;
 public class LinearSearch {
 
 
+
+
+
+
     //-----------------------------------
-//        WHEN SORTED AND ELEMT IS CLOSE TO ENDS
+//        WHEN SORTED AND ELEMENT IS CLOSE TO ENDS
 //        -----------------------------------
 
     private static int search(int[] arr, int key) {
