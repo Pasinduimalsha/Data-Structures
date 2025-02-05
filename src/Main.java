@@ -9,6 +9,11 @@ public class Main {
 
         double name = x.nextDouble();
         System.out.println(name);
+
+        String s1 = "Pasindu";
+        String s2 = "Imalsha";
+
+        System.out.println(s1.concat(" ").concat(s2));
     }
 }
 
